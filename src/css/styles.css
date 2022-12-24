@@ -1,5 +1,5 @@
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background-color: #f5f7fa;
 }
 /* maiin styles */
@@ -184,7 +184,7 @@ body {
 
 .photo {
   width: 370px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 /* contacts */
@@ -223,6 +223,7 @@ body {
   line-height: 24px;
   color: #ffffff;
   opacity: 0.5;
+  text-decoration: none;
 }
 
 /* tech_skills */
