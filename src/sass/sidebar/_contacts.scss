@@ -1,0 +1,41 @@
+/* contacts */
+
+.contacts,
+.tech_skills {
+  margin-left: 40px;
+}
+
+.contacts {
+  margin-bottom: 50px;
+
+  & p {
+    margin-bottom: 7px;
+  }
+}
+
+.sidebar_title {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 10px;
+}
+
+.contact_type {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 10px;
+}
+
+.contact_link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  opacity: 0.5;
+}

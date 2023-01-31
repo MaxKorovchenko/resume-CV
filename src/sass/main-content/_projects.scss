@@ -1,0 +1,39 @@
+/* project styles */
+.projects {
+  text-align: justify;
+}
+
+.title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.projects_list {
+  padding: 0;
+  margin-left: 15px;
+}
+
+.projects_item {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.project,
+.project_link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #050505;
+}
+
+.link {
+  margin-left: 7px;
+}

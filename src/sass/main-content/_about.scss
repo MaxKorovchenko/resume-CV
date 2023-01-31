@@ -1,0 +1,39 @@
+/* about styles */
+
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.about_position {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 37px;
+  letter-spacing: 0.03em;
+  color: #514a4a;
+  margin-bottom: 20px;
+}
+
+.about_name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #0f0f9e;
+  margin-bottom: 25px;
+  text-shadow: 3px 3px 1px #b3b317;
+}
+
+.about_discription {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #313030;
+  width: 500px;
+  text-align: justify;
+}
