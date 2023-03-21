@@ -29,9 +29,13 @@ body {
 
 .container {
   padding: 15px;
-  margin-bottom: 45px;
+
   border-radius: 5px;
   box-shadow: 3px 3px 10px #252070;
+
+  &:not(:last-child) {
+    margin-bottom: 30px;
+  }
 }
 
 /* main styles */
